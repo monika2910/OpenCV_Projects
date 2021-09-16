@@ -13,8 +13,8 @@
 # Chapters
 </br>
 
-|Index|Topic|Image|Video|Description|
-|:----:|:----:|:----:|:----:|:----:|
+|Index|Topic|Image|Description|
+|:----:|:----:|:----:|:----:|
 |1|Introduction to Images| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Introduction.gif" width="300" height="150" />     | Basic concept of Images. The RGB Channels and Gray Scale Images.  </br> |
 |2|Installations| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Installations.gif" width="300" height="150" />     | Installation process of Pyhton, OpenCV and the Pycharm IDE  </br> |
 
@@ -23,8 +23,8 @@
 
 # Chapters
 
-|Chapter|Topic|Image|Video|Description|
-|:----:|:----:|:----:|:----:|:----:|
+|Chapter|Topic|Image|Description|
+|:----:|:----:|:----:|:----:|
 |1| [How to Read Image Video-Webcam](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/chapter1.py)| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Chapter1.gif" width="360" height="150" />   | Learn how to read images videos and webcam.  </br> |
 |2| [5 Must Know OpenCV Basic Functions](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/chapter2.py)| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Chapter2.gif" width="300" height="150" />  |     5 Must know opencv functions for beginners. Gray Scale, Blur, Edge Detection, Dialation and Erosion.  </br> |
 |3| [How to Crop and Resize Images](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/chapter3.py)| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Chapter3.gif" width="300" height="150" /> |   How to crop and resize and iamge. Resize could be used to scale up or scale down an image where cropping can be used to get a part of the image. </br> |
@@ -41,11 +41,11 @@
 </br>
 
 
-|Project|Topic|Image|Video|Description|
-|:----:|:----:|:----:|:----:|:----:|
+|Project|Topic|Image|Description|
+|:----:|:----:|:----:|:----:|
 |1| [Virtual Paint](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/project1.py)| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/project1.gif" width="450" height="150" />   | Detecting Color and using colored marker to draw virtually. </br> |
 |2| [Documnet Scanner](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/project2.py)| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/project2.gif" width="450" height="150" />  |   In this project we are going to create a simple document scanner using opencv. We will learn how to run this in real time</br> |
-|3|[Number Plate Detector](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/project3.py)| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/project3.gif" width="450" height="150" />  |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=10594)     | In this project we will detect number plates on cars in realtime and save them with a click of a button. </br> |
+|3|[Number Plate Detector](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/project3.py)| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/project3.gif" width="450" height="150" />     | In this project we will detect number plates on cars in realtime and save them with a click of a button. </br> |
 
 
 # Notes
