@@ -10,13 +10,6 @@
 
 
 
-# Chapters
-</br>
-
-|Index|Topic|Image|Description|
-|:----:|:----:|:----:|:----:|
-|1|Introduction to Images| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Introduction.gif" width="300" height="150" />     | Basic concept of Images. The RGB Channels and Gray Scale Images.  </br> |
-|2|Installations| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Installations.gif" width="300" height="150" />     | Installation process of Pyhton, OpenCV and the Pycharm IDE  </br> |
 
 
 
