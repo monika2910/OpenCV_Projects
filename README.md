@@ -38,7 +38,7 @@
 |:----:|:----:|:----:|:----:|
 |1| [Virtual Paint](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/project1.py)| <img src="https://github.com/monika2910/OpenCV_Projects/blob/main/Tumbnails/project1.gif" width="450" height="150" />   | Detecting Color and using colored marker to draw virtually. </br> |
 |2| [Documnet Scanner](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/project2.py)| <img src="https://github.com/monika2910/OpenCV_Projects/blob/main/Tumbnails/project2.gif" width="450" height="150" />  |   In this project we are going to create a simple document scanner using opencv. We will learn how to run this in real time</br> |
-|3|[Number Plate Detector](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/project3.py)| <img src="https://github.com/monika2910/OpenCV_Projects/blob/main/Tumbnail/project3.gif" width="450" height="150" />     | In this project we will detect number plates on cars in realtime and save them with a click of a button. </br> |
+|3|[Number Plate Detector](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/project3.py)| <img src="https://github.com/monika2910/OpenCV_Projects/blob/main/Tumbnails/project3.gif" width="450" height="150" />     | In this project we will detect number plates on cars in realtime and save them with a click of a button. </br> |
 
 
 # Notes
